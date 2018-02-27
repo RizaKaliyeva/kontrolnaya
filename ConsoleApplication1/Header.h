@@ -1,0 +1,11 @@
+void func(int *arr, int * size, int *summ, int *proiz);
+void print_arr(int * arr, int  size);
+void print_arr2(int(*arr)[5], int size);
+void mas2(int(*arr)[5], int * size, int chet, int nechet, int sr);
+void plusend(char *arr);
+int func(int(*arr)[5], int * size, int *summ, int *proiz);
+double func(double(*arr)[5], double * size, double *summ, double *proiz);
+short int func(short int(*arr)[5], short int * size, short int *summ, short int *proiz);
+int summ(int a, int b);
+void deletearr(int *arr, int size);
+void vstavka(int *arr, int size);
